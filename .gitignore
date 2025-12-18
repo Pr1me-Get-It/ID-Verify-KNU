@@ -1,0 +1,37 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Env
+.env
+.env.*.local
+
+# Build / output
+dist/
+build/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Tesseract/cache (if any)
+.tesseract_cache/
+
+# Optional: ignore large sample images
+imgs/
+
+# Misc
+.cache/
+*.sqlite
