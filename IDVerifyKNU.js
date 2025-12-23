@@ -17,6 +17,4 @@ const idVerifyKNU = async (img) => {
   }
 };
 
-console.log(await idVerifyKNU("imgs/sample02.PNG"));
-
 export default idVerifyKNU;
