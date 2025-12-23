@@ -29,8 +29,12 @@ logs/
 # Tesseract/cache (if any)
 .tesseract_cache/
 
+kor.traineddata
+eng.traineddata
+
 # Optional: ignore large sample images
 imgs/
+templates/
 
 # Misc
 .cache/

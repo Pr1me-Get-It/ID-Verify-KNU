@@ -1,3 +1,5 @@
+// 한글 OCR 잘 못함. 다른 라이브러리로 교체 필요
+
 import { createWorker } from "tesseract.js";
 
 const worker = await createWorker("kor");
